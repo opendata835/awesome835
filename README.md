@@ -28,19 +28,19 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 
 ## Перелік організацій, які займаються відкритими даними
 ### Державні
-- Міністерство економічного розвитку та торгівлі України http://me.gov.ua/
-- Державне агентство з питань електронного урядування http://www.e.gov.ua/
-- Державне підприємство “Прозорро” https://prozorro.gov.ua/
+- [Міністерство економічного розвитку та торгівлі України](http://me.gov.ua/)
+- [Державне агентство з питань електронного урядування](http://www.e.gov.ua/)
+- [Державне підприємство “Прозорро”](https://prozorro.gov.ua/)
 
 ### Фонди
-- http://tapas.org.ua/
-- Агенція журналістики даних http://tapas.org.ua/
-- SocialBoost http://socialboost.com.ua/
-- Open Data Institute http://theodi.org/
-- Transparency International-Україна http://ti-ukraine.org/
-- Київська школа економіки http://www.kse.org.ua/
-- Фонд Східна Європа http://www.eef.org.ua/
-- USAID https://www.usaid.gov/uk/ukraine
+- [Tapas](http://tapas.org.ua/)
+- [Агенція журналістики даних](http://tapas.org.ua/)
+- [SocialBoost](http://socialboost.com.ua/)
+- [Open Data Institute](http://theodi.org/)
+- [Transparency International-Україна](http://ti-ukraine.org/)
+- [Київська школа економіки](http://www.kse.org.ua/)
+- [Фонд Східна Європа](http://www.eef.org.ua/)
+- [USAID](https://www.usaid.gov/uk/ukraine)
 
 ### Комерційні
 
