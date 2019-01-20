@@ -135,5 +135,5 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 - [ДСА](https://github.com/opendata-ua/awesome-835/tree/master/datasets/54)
 - [Центральна виборча комісія](https://github.com/opendata-ua/awesome-835/tree/master/datasets/55)
 - [Рада міністрів Автономної Республіки Крим](https://github.com/opendata-ua/awesome-835/tree/master/datasets/56)
-- [Місцеві держадміністрації](https://github.com/opendata-ua/awesome-835/tree/master/datasets/57
+- [Місцеві держадміністрації](https://github.com/opendata-ua/awesome-835/tree/master/datasets/57)
 - [Органи місцевого самоврядування](https://github.com/opendata-ua/awesome-835/tree/master/datasets/58)
