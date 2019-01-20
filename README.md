@@ -79,7 +79,7 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 
 ## API, паспорти даних та все пов’язане зі списком реєстрів по постанові 835
 
-- [Верховна Рада України](/tree/master/datasets/01)
+- [Верховна Рада України](./tree/master/datasets/01)
 - [Мін’юст]
 - [Генеральна прокуратура України]
 - [МВС]
