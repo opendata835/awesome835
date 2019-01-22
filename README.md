@@ -195,6 +195,16 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 
 ## Перелік дата-активістів - акаунти, групи, сторінки
 
+### Telegram-канали та чати
+
+#### Чати
+* [OpenData-UA](https://t.me/OpenData835) - Группа для обговорення OpenData проєктів, та для модерації цього списку.
+
+#### Канали
+* [Команда Opendatabot](https://t.me/opendataukraine)
+* [Texty](https://t.me/textyorgua)
+* [Textura.in.ua](https://t.me/texturainua)
+
 ### Блоги та ресурси<a name="blogs"></a>
 * [Блог Андрія Газіна](http://textura.in.ua/)
 * [Блог Євгена Василенка](http://www.datastory.org.ua/)
@@ -208,9 +218,3 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 ### Facebook-спільноти
 * [Opendatabot: Все про відкриті дані та публічну інформацію](https://www.facebook.com/groups/198215887451921/)
 * [Відкриті дані: тренінги для громадських організацій і журналістів](https://www.facebook.com/groups/OpenDataUA/)
-
-### Telegram-канали
-* [OpenData-UA](https://t.me/OpenData835) - Группа для обговорення OpenData проєктів, та для модерації цього списку.
-* [Команда Opendatabot](https://t.me/opendataukraine)
-* [Texty](https://t.me/textyorgua)
-* [Textura.in.ua](https://t.me/texturainua)
