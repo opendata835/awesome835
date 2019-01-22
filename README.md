@@ -16,10 +16,10 @@
 - [Перелік дата-активістів - акаунти, групи, сторінки](#перелік-дата-активістів---акаунти-групи-сторінки)
 - [Платформи для комунікацій для обговорення opendata в Україні](#платформи-для-комунікацій-для-обговорення-opendata-в-україні)
 - [Опорні кейси з судової практики](#опорні-кейси-з-судової-практики)
-- [Перелік додатків на основі відкритих даних](#перелік-додатків-на-основі-відкритих-даних)
+- [Зведені реєстри відкритих даних]()
 - [Державні API до відкритих даних](#державні-API-до-відкритих-даних)
+- [Портали відкритих даних органів місцевого самоврядування]()
 - [Комерційні API до відкритих даних](#комерційні-API-до-відкритих-даних)
-- [Паспорти даних та все пов’язане зі списком реєстрів по постанові 835](#)
 
 ## Законотворча база
 
@@ -31,7 +31,7 @@
 "Про затвердження Положення про набори даних, які підлягають оприлюдненню у формі відкритих даних"](https://zakon.rada.gov.ua/laws/show/835-2015-%D0%BF)
 - [Постанова Кабінету  Міністрів України від 30 листопада 2016 р. № 867
 "Деякі питання оприлюднення публічної інформації у формі відкритих даних"](https://zakon.rada.gov.ua/rada/show/867-2016-%D0%BF)
-- 
+-
 
 ### Проекти
 - [Проект постанови Кабінету Міністрів України "Про внесення змін до деяких постанов Кабінету Міністрів України щодо відкритих даних"](
@@ -68,19 +68,19 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 
 ## Методичні матеріали
 
-## Перелік дата-активістів - акаунти, групи, сторінки
+* [Відкритий посібник з відкритих даних](http://socialdata.org.ua/manual/)
+* [Відкриті дані українських міст. Рекомендації щодо впровадження політик](https://danimist.org.ua/opendata_advice.html)
+* [Журналістика даних: Посібник](http://texty.org.ua/pg/book/newsmaker/read/40161?a_offset)
+* [Посібник по роботі з даними](http://texty.org.ua/pdf/data2015.pdf "PDF")
+* [Методологія рейтингування прозорості міст](https://issuu.com/tiukraine/docs/tutorial_web)
 
-## Платформи для комунікацій для обговорення opendata в Україні
-
-- Телеграм канал: https://t.me/OpenData835
 
 ## Опорні кейси з судової практики
 
-## Перелік додатків на основі відкритих даних
 
-- [Опендатабот](https://opendatabot.ua/) -
-Сервіс моніторингу реєстраційних даних українських компаній та судового реєстру для захисту від рейдерських захоплень і контролю контрагентів.
-- [Суд на долоні](https://conp.com.ua/) - пошуково-аналітична система для пошуку та дослідження судових рішень
+## Зведені реєстри відкритих даних
+
+- [Єдиний державний веб-портал відкритих даних](https://data.gov.ua/)
 
 ## Державні API до відкритих даних
 
@@ -151,6 +151,36 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 - Рада міністрів Автономної Республіки Крим
 - Місцеві держадміністрації
 - Органи місцевого самоврядування
+  - [Apps4cities](https://data.danimist.org.ua/) - Портал Громадянської мережі ОПОРА та TechSoup “Дані міст/Apps4Cities” - це портал відкритих міських даних.
+
+## Портали відкритих даних органів місцевого самоврядування
+
+* [Вінниця](http://opendata.gov.ua/)
+* [Вознесенськ (Миколаївська область)](https://voznesensk.danimist.org.ua)
+* [Дніпро](https://opendata.dniprorada.gov.ua)
+* [Долина (Івано-Франківська область)](http://opendata.dolyna.if.ua)
+* [Дрогобич](https://opendata.drohobych-rada.gov.ua)
+* [Дубно](https://ckan.dubno-adm.rv.ua/)
+* [Київ](https://data.kyivcity.gov.ua)
+* [Коломия](https://kolomyya.danimist.org.ua)
+* [Кременчук](https://opendata.kremen.gov.ua)
+* [Кривий Ріг](http://od.kr.gov.ua)
+* [Львів](http://opendata.city-adm.lviv.ua)
+* [Одеса (та область)](http://data.ngorg.od.ua/uk/dataset)
+* [Полтава](http://odata.rada-poltava.gov.ua)
+* [Рівне](https://rivne.danimist.org.ua)
+* [Харків](http://data.city.kharkov.ua)
+* [Чернівці](https://data.city.cv.ua)
+
+
+### Відкриті дані ГО та НДО
+
+* [ДонорUA](https://donor.ua/opendata)
+* [Рух ЧЕСНО API](http://www.chesno.org/api/ "Оцифровані декларації українських політиків та чиновників у форматі JSON")
+* [Opendatabot API](https://opendatabot.com/api)
+* [Громадянська мережа ОПОРА](https://github.com/OPORA/electiondata "Виборчі дані")
+* [Rada4U (Вони голосують для Тебе) API](https://rada4you.org/help/data "Дані по голосуванням Верховної Ради")
+*
 
 ## Комерційні API до відкритих даних
 
@@ -162,63 +192,25 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 - [Дані проекту "Донор.UA"](https://donor.ua/developers)
 - [Дані щодо населених пунктів України проекту "City Scale"](http://www.cityscale.com.ua/)
 
-## Паспорти даних та все пов’язане зі списком реєстрів по постанові 835
 
-- [Верховна Рада України](https://github.com/opendata-ua/awesome-835/tree/master/datasets/01)
-- [Мін’юст](https://github.com/opendata-ua/awesome-835/tree/master/datasets/02)
-- [Генеральна прокуратура України](https://github.com/opendata-ua/awesome-835/tree/master/datasets/03)
-- [МВС](https://github.com/opendata-ua/awesome-835/tree/master/datasets/04)
-- [Національна поліція](https://github.com/opendata-ua/awesome-835/tree/master/datasets/05)
-- [ДСНС](https://github.com/opendata-ua/awesome-835/tree/master/datasets/06)
-- [Мінфін](https://github.com/opendata-ua/awesome-835/tree/master/datasets/07)
-- [Казначейство](https://github.com/opendata-ua/awesome-835/tree/master/datasets/08)
-- [ДРС](https://github.com/opendata-ua/awesome-835/tree/master/datasets/09)
-- [ДФС](https://github.com/opendata-ua/awesome-835/tree/master/datasets/10)
-- [Мінекономрозвитку](https://github.com/opendata-ua/awesome-835/tree/master/datasets/11)
-- [ДСІВ](https://github.com/opendata-ua/awesome-835/tree/master/datasets/12)
-- [МОЗ](https://github.com/opendata-ua/awesome-835/tree/master/datasets/13)
-- [Міненерговугілля](https://github.com/opendata-ua/awesome-835/tree/master/datasets/14)
-- [ПАТ “Національна акціонерна компанія “Нафтогаз України”](https://github.com/opendata-ua/awesome-835/tree/master/datasets/15)
-- [Державне підприємство “Національна енергетична компанія “Укренерго”](https://github.com/opendata-ua/awesome-835/tree/master/datasets/16)
-- [Державне підприємство “Енергоринок”](https://github.com/opendata-ua/awesome-835/tree/master/datasets/17)
-- [Держенергоефективності](https://github.com/opendata-ua/awesome-835/tree/master/datasets/18)
-- [МОН](https://github.com/opendata-ua/awesome-835/tree/master/datasets/19)
-- [Мінінфраструктури](https://github.com/opendata-ua/awesome-835/tree/master/datasets/20)
-- [Державіаслужба](https://github.com/opendata-ua/awesome-835/tree/master/datasets/21)
-- [Укртрансбезпека](https://github.com/opendata-ua/awesome-835/tree/master/datasets/22)
-- [Укравтодор](https://github.com/opendata-ua/awesome-835/tree/master/datasets/23)
-- [Мінсоцполітики](https://github.com/opendata-ua/awesome-835/tree/master/datasets/24)
-- [Пенсійний фонд України](https://github.com/opendata-ua/awesome-835/tree/master/datasets/25)
-- [Центральний апарат Служби зайнятості](https://github.com/opendata-ua/awesome-835/tree/master/datasets/26)
-- [МТОТ](https://github.com/opendata-ua/awesome-835/tree/master/datasets/27)
-- [Мінкультури](https://github.com/opendata-ua/awesome-835/tree/master/datasets/28)
-- [Мінмолодьспорт](https://github.com/opendata-ua/awesome-835/tree/master/datasets/29)
-- [Мінприроди](https://github.com/opendata-ua/awesome-835/tree/master/datasets/30)
-- [Держгеонадра](https://github.com/opendata-ua/awesome-835/tree/master/datasets/31)
-- [Держекоінспекція](https://github.com/opendata-ua/awesome-835/tree/master/datasets/32)
-- [Держводагентство](https://github.com/opendata-ua/awesome-835/tree/master/datasets/33)
-- [Мінагрополітики](https://github.com/opendata-ua/awesome-835/tree/master/datasets/34)
-- [Держлісагентство](https://github.com/opendata-ua/awesome-835/tree/master/datasets/35)
-- [Держрибагентство](https://github.com/opendata-ua/awesome-835/tree/master/datasets/36)
-- [Держпродспоживслужба](https://github.com/opendata-ua/awesome-835/tree/master/datasets/37)
-- [Мінрегіон](https://github.com/opendata-ua/awesome-835/tree/master/datasets/38)
-- [МЗС](https://github.com/opendata-ua/awesome-835/tree/master/datasets/39)
-- [Адміністрація Держспецзв’язку](https://github.com/opendata-ua/awesome-835/tree/master/datasets/40)
-- [Держгеокадастр](https://github.com/opendata-ua/awesome-835/tree/master/datasets/41)
-- [Держстат](https://github.com/opendata-ua/awesome-835/tree/master/datasets/42)
-- [Фонд державного майна](https://github.com/opendata-ua/awesome-835/tree/master/datasets/43)
-- [Антимонопольний комітет](https://github.com/opendata-ua/awesome-835/tree/master/datasets/44)
-- [Держархбудінспекція](https://github.com/opendata-ua/awesome-835/tree/master/datasets/45)
-- [Нацкомфінпослуг](https://github.com/opendata-ua/awesome-835/tree/master/datasets/46)
-- [Національна рада з питань телебачення і радіомовлення](https://github.com/opendata-ua/awesome-835/tree/master/datasets/47)
-- [НКРЕКП](https://github.com/opendata-ua/awesome-835/tree/master/datasets/48)
-- [НКЦПФР](https://github.com/opendata-ua/awesome-835/tree/master/datasets/49)
-- [НКРЗІ](https://github.com/opendata-ua/awesome-835/tree/master/datasets/50)
-- [Національний банк](https://github.com/opendata-ua/awesome-835/tree/master/datasets/51)
-- [Вищий господарський суд України](https://github.com/opendata-ua/awesome-835/tree/master/datasets/52)
-- [Фонд гарантування вкладів фізичних осіб](https://github.com/opendata-ua/awesome-835/tree/master/datasets/53)
-- [ДСА](https://github.com/opendata-ua/awesome-835/tree/master/datasets/54)
-- [Центральна виборча комісія](https://github.com/opendata-ua/awesome-835/tree/master/datasets/55)
-- [Рада міністрів Автономної Республіки Крим](https://github.com/opendata-ua/awesome-835/tree/master/datasets/56)
-- [Місцеві держадміністрації](https://github.com/opendata-ua/awesome-835/tree/master/datasets/57)
-- [Органи місцевого самоврядування](https://github.com/opendata-ua/awesome-835/tree/master/datasets/58)
+## Перелік дата-активістів - акаунти, групи, сторінки
+
+### Блоги та ресурси<a name="blogs"></a>
+* [Блог Андрія Газіна](http://textura.in.ua/)
+* [Блог Євгена Василенка](http://www.datastory.org.ua/)
+* [Блог Andrii Emem](http://datatowel.in.ua/)
+* [Блог Opendatabot](https://opendatabot.com/blog)
+
+### Open Source
+* [Github репозиторії Андрія Газіна](http://github.com/andriy-gazin)
+* [Github репозиторії Texty](https://github.com/texty)
+
+### Facebook-спільноти
+* [Opendatabot: Все про відкриті дані та публічну інформацію](https://www.facebook.com/groups/198215887451921/)
+* [Відкриті дані: тренінги для громадських організацій і журналістів](https://www.facebook.com/groups/OpenDataUA/)
+
+### Telegram-канали
+* [OpenData-UA](https://t.me/OpenData835) - Группа для обговорення OpenData проєктів, та для модерації цього списку.
+* [Команда Opendatabot](https://t.me/opendataukraine)
+* [Texty](https://t.me/textyorgua)
+* [Textura.in.ua](https://t.me/texturainua)
