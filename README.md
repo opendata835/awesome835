@@ -165,6 +165,7 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 * [Рівне](https://rivne.danimist.org.ua)
 * [Харків](http://data.city.kharkov.ua)
 * [Чернівці](https://data.city.cv.ua)
+* [Хмельницький](http://mycity.khm.gov.ua/OpenData/)
 
 
 ### Відкриті дані ГО та НДО
