@@ -88,6 +88,7 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 - [API доступу до відкритих даних Загальнодоступної інформаційної бази даних НКЦПФР](https://stockmarket.gov.ua/api/v1/index)
 - [API Інспекційного порталу Державних перевірок](http://api.ias.brdo.com.ua/v1_1/manual)
 - [API державного порталу з децентралізації](https://decentralization.gov.ua/api)
+- [ЄДИНИЙ ДЕРЖАВНИЙ РЕЄСТР осіб, які вчинили корупційні або пов’язані з корупцією правопорушення](https://corruptinfo.nazk.gov.ua/)
 - Мін’юст
 - Генеральна прокуратура України
 - МВС
