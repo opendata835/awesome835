@@ -195,7 +195,7 @@ https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vne
 ### Telegram-канали та чати
 
 #### Чати
-* [OpenData-UA](https://t.me/OpenData835) - Группа для обговорення OpenData проєктів, та для модерації цього списку.
+* [OpenData835](https://t.me/OpenData835) - Группа для обговорення OpenData проєктів, та для модерації цього списку.
 
 #### Канали
 * [Команда Opendatabot](https://t.me/opendataukraine)
