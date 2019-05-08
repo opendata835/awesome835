@@ -39,7 +39,7 @@
 
 ### Проекти
 - [Проект постанови Кабінету Міністрів України "Про внесення змін до деяких постанов Кабінету Міністрів України щодо відкритих даних"](
-https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vnesennya-zmin-do-deyakih-postanov-kabinetu-ministriv-ukrayini-shchodo-vidkritih-danih)
+https://www.e.gov.ua/ua/npa/proekt-postanovi-kabinetu-ministriv-ukrayini-pro-vnesennya-zmin-do-deyakih-postanov-kabinetu-ministriv-ukrayini-shchodo-vidkritih-danih) **Прийнятий**
 - [Проект Закону про публічні електронні реєстри](http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=64437)
 
 ## Перелік організацій, які займаються відкритими даними
